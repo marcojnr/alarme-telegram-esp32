@@ -4,8 +4,8 @@
 #include <ArduinoJson.h>
 
 // Dados do WiFi
-#define WIFI_SSID "PHSOUZA"
-#define WIFI_PASSWORD "123456787"
+#define WIFI_SSID "teste"
+#define WIFI_PASSWORD "9999999999"
 // Telegram BOT Token (Botfather)
 #define BOT_TOKEN "7052144896:AAE_O6dJc7Aof1OjQkG9DZNhDBpbYznfhF4"
 
